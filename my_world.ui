@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>my_world</class>
+ <widget class="QWidget" name="my_world">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1013</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>my_world</string>
+  </property>
+  <widget class="QPushButton" name="Kill">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>970</y>
+     <width>200</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Убить половину ботов</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>970</y>
+     <width>200</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Вспышка на солнце</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
